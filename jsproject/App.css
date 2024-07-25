@@ -1,0 +1,17 @@
+body{
+    margin: 25px 25px;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+input[type="text"] {
+    margin-bottom: 10px;
+}
